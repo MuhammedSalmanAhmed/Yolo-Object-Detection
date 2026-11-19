@@ -2,6 +2,8 @@
 
 An object detection application built using YOLOv8n and Streamlit.
 
+App Link: https://yolo-object-detection-salman.streamlit.app/
+
 ## Detected Classes
 - dog
 - duck_dead
